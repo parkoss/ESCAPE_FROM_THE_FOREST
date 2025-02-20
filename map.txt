@@ -1,0 +1,10 @@
+startovniKemp opustenyKemp hluokyLes chatrc jezero bazina opustenyOltar jeskyne chram
+jeskyne startovniKemp hlubokyLes
+hlubokyLes startovniKemp jeskyne opustenyOltar
+opustenyOltar startovniKemp hlubokyLes
+opustenyKemp startovniKemp bazina
+bazina startovniKemp opustenyKemp chatrc
+chatrc startovniKemp bazina jezero
+jezero startovniKemp chatrc
+chram startovniKemp brana
+brana chram
