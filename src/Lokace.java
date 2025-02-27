@@ -8,11 +8,4 @@ public class Lokace {
         this.nazev = nazev;
         this.povolenyLokace = povolenyLokace;
     }
-    public String getNazev() {
-        return nazev;
-    }
-
-    public ArrayList<String> getPovoleneLokace() {
-        return povolenyLokace;
-    }
 }
